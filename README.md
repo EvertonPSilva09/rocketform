@@ -1,7 +1,4 @@
 # Rocketform
-
-## Descrição
-
 Esse projeto faz parte de uma aula do curso [Explorer](https://app.rocketseat.com.br/explorer) da [Rocketseat](https://app.rocketseat.com.br/)
 <br>
 De forma bem simples trás a proposta de fazer uma página conforme imagem abaixo.
