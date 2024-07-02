@@ -230,3 +230,7 @@ footer .button:hover {
   background: #04bf58;
   cursor: pointer;
 }
+
+input:invalid {
+  border: 2px solid #FF1010;
+}
